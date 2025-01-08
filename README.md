@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Athul
+- I'm a Pull Stack Developer 😁
 - 👀 I’m interested in creating bugs 😂 👾
 - 🌱 I’m currently learning React.js ✨ and ML 🤖 
 - 📫 How to reach me just ping me......
